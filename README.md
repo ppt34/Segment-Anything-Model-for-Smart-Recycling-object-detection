@@ -1,4 +1,4 @@
-# Segment-Anything-Model for recycling object detection
+# Segment-Anything-Model for Smart Recycling object detection
 
 This repo includes:
 - Notebooks that use the Segment-Anything-Model to create a dataset of image segments
